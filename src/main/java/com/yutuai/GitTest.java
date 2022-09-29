@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("hello pzx");
         System.out.println("hello pan4");
         System.out.println("hello pan5");
+        System.out.println("hello pan6");
     }
 }
